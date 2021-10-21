@@ -3,14 +3,18 @@
 ---
 
 ## Applied Data Science Capstone Project
-### Prerequisite:
-```
-Python, Jupyter Notebook, Db2 on IBM Cloud
-```
+
+![alt text](https://github.com/tanjimanasreen/MOOC-courses/blob/main/IBM%20Data%20Science%20Professional%20Certificate/Applied%20Data%20Science%20Capstone%20(Course%2010)/Screenshots/Falcon9.jpg)
+
 ### Summary:
 In April 1961, Human civilization first encountered traveling to space. Fast forward to a half-century later, various companies are now aiming for commercial space travel and SpaceX is one of them. This company’s goal is to make commercial space travel more affordable for everyone. SpaceX can launch rockets in a relatively high cost-efficient manner by reusing the first stage of the rocket Falcon 9 (the first orbital-class rocket capable of re-flight). 
 
 In this project, a company named Space Y is planning to compete with SpaceX. The goal is to find the cost of each launch. And this cost primarily depends on the successful landing of the first stage. Hence, a classification analysis on whether the first stage would be successful or not is present here along with various exploratory and visual analytics of the SpaceX Falcon 9 Launch Dataset.
+
+### Pre-requisite:
+```
+Python, Jupyter Notebook, Db2 on IBM Cloud
+```
 
 ### Data Collection:
 The dataset was collected into two stages:
